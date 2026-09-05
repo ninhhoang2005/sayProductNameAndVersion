@@ -2,6 +2,11 @@
 
 Note: translation-only releases, and never released versions, are not included here.
 
+### 2026.4.1
+
+* NVDA 2026.1.1 compatibility.
+* Contributed translatability fix: f-strings changed to format strings. These were not originally supposed to make it into master.
+
 ### 2026.4.0
 
 * Declared compatibility with NVDA 2026.1.
